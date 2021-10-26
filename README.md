@@ -30,14 +30,4 @@ Arquivo PDF (word): GRC_hands_on_3_2015_vf01
 Apresentação: Modulo_02_hands_on_03
 Arquivo GRC: precisa construir.
 
-Projeto I: projeto_I
-
-
-### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
-
-#### Parte 01: Avaliação de cobertura celular [Link via Github](https://github.com/vicentesousa/DCO1020_2021_1/blob/main/h01_parte01.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_1/blob/main/h01_parte01.ipynb)
-
-**Objetivos:**
-- Criação de Grid Hexagonal para modelar cobertura de Estações Rádio Base
-- Análise visual de potência recebida 
-- Análise de Outage de potência
+### Projeto I: projeto_I
