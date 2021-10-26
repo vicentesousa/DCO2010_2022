@@ -18,6 +18,7 @@
 
 **TODOs Ravan:** 
 - Construir o ../notebooks/H01.ipynb baseado no ..\original_files\HO_01\GRC_hands_on_1_2016_vf01.pdf e na ..\original_files\HO_01\GRC_hands_on_01_apresentacao.pdf (os arquivos em word e pptx também estão disponpiveis)
+- Incluir um experimento com o bloco QT GUI Message Edit Box
 - Testar arquivos ..\original_files\HO_01\Arquivos_GRC e ver se funcionam. Caso não funcionem, gerar os arquivos baeados no hands-on. Salvar arqvuos corretos na pasta ..\CODES\H01
 
 ### Hands-on 02 - Manipulação de áudio e filtragem (arquivos e microfone)
