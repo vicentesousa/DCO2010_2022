@@ -3,9 +3,14 @@
 ## UNIDADE I
 
 ## Hands-on 00: Preparação do ambiente de prática e desenvolvimento
-### [Criação de máquina virtual Ubuntu (UBUNTU 20.04)](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_VM_20_04.ipynb)
+### [Criação de máquina virtual Ubuntu VMWare (UBUNTU 20.04)](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_VM_20_04.ipynb)
 **Objetivos:**
 - Instalar VMWare no Windows
+- Baixar e criar máquina virtual Ubuntu 20.04 no Windows
+
+### [Criação de máquina virtual Ubuntu Virtual box (UBUNTU 20.04)](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_VB_20_04.ipynb)
+**Objetivos:**
+- Instalar Virutal Box no Windows
 - Baixar e criar máquina virtual Ubuntu 20.04 no Windows
 
 ### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 20.04) - Python 3.8.5](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_BJ_20.04.ipynb)
