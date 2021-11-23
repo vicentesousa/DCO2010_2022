@@ -7,7 +7,6 @@
 **Objetivos:**
 - Instalar VMWare no Windows
 - Baixar e criar máquina virtual Ubuntu 20.04 no Windows
----
 
 ### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 20.04) - Python 3.8.5](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_BJ_20.04.ipynb)
 **Objetivos**
