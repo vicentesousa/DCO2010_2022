@@ -2,6 +2,24 @@
 
 ## UNIDADE I
 
+## Hands-on 00: Preparação do ambiente de prática e desenvolvimento
+### [Criação de máquina virtual Ubuntu (UBUNTU 20.04)](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_VM_20_04.ipynb)
+**Objetivos:**
+- Instalar VMWare no Windows
+- Baixar e criar máquina virtual Ubuntu 20.04 no Windows
+---
+
+### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 20.04) - Python 3.8.5](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_BJ_20.04.ipynb)
+**Objetivos**
+- Instalar pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
+- Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
+- Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
+
+### [Instalação de GNU Radio](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_GNURADIO.ipynb)
+**Objetivos**
+- Instalar o UHD Driver (suporte para USRP)
+- Instalar o GNU Radio
+- Configurar e testar o GNU Radio
 
 ### Hands-on 01 - Instrumentação Virtual Básica usando GNU Radio e a USRP
 
