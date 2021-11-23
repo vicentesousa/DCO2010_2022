@@ -3,23 +3,23 @@
 ## UNIDADE I
 
 ## Hands-on 00: Preparação do ambiente de prática e desenvolvimento
-### [Criação de máquina virtual Ubuntu VMWare (UBUNTU 20.04)](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_VM_20_04.ipynb)
+### [Criação de máquina virtual Ubuntu VMWare (UBUNTU 20.04)](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_VM_20_04.ipynb)  - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_VM_20_04.ipynb)
 **Objetivos:**
 - Instalar VMWare no Windows
 - Baixar e criar máquina virtual Ubuntu 20.04 no Windows
 
-### [Criação de máquina virtual Ubuntu Virtual box (UBUNTU 20.04)](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_VB_20_04.ipynb)
+### [Criação de máquina virtual Ubuntu Virtual box (UBUNTU 20.04)](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_VB_20_04.ipynb)  - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_VB_20_04.ipynb)
 **Objetivos:**
 - Instalar Virutal Box no Windows
 - Baixar e criar máquina virtual Ubuntu 20.04 no Windows
 
-### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 20.04) - Python 3.8.5](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_BJ_20.04.ipynb)
+### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 20.04) - Python 3.8.5](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_BJ_20.04.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_BJ_20.04.ipynb)
 **Objetivos**
 - Instalar pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
 - Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
-### [Instalação de GNU Radio](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_GNURADIO.ipynb)
+### [Instalação de GNU Radio](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_GNURADIO.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_GNURADIO.ipynb)
 **Objetivos**
 - Instalar o UHD Driver (suporte para USRP)
 - Instalar o GNU Radio
