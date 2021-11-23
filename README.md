@@ -20,7 +20,7 @@
 - Instalar o GNU Radio
 - Configurar e testar o GNU Radio
 
-### Hands-on 01 - Instrumentação Virtual Básica usando GNU Radio e a USRP
+## Hands-on 01 - Instrumentação Virtual Básica usando GNU Radio e a USRP
 
 #### [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H01.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H01.ipynb)
 **Objetivos:**
@@ -38,14 +38,14 @@
 - Incluir um experimento com o bloco QT GUI Message Edit Box
 - Testar arquivos ..\original_files\HO_01\Arquivos_GRC e ver se funcionam. Caso não funcionem, gerar os arquivos baeados no hands-on. Salvar arqvuos corretos na pasta ..\CODES\H01
 
-### Hands-on 02 - Manipulação de áudio e filtragem (arquivos e microfone)
+## Hands-on 02 - Manipulação de áudio e filtragem (arquivos e microfone)
 Arquivo PDF (word): GRC_hands_on_2_2015_vf
 Apresentação: Modulo_02_hands_on_02
 Arquivo GRC: HO_02\Arquivos_GRC
 
-### Hands-on 03 - Transmissão e recepção da modulação AM utilizando o GNURadio (loopback)
+## Hands-on 03 - Transmissão e recepção da modulação AM utilizando o GNURadio (loopback)
 Arquivo PDF (word): GRC_hands_on_3_2015_vf01
 Apresentação: Modulo_02_hands_on_03
 Arquivo GRC: precisa construir.
 
-### Projeto I: projeto_I
+## Projeto I: projeto_I
