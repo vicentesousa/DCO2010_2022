@@ -8,7 +8,7 @@
 - Instalar VMWare no Windows
 - Baixar e criar máquina virtual Ubuntu 20.04 no Windows
 
-### [Criação de máquina virtual Ubuntu Virtual box (UBUNTU 20.04)](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_VB_20_04.ipynb)  - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_VB_20_04.ipynb)
+### [Criação de máquina virtual Ubuntu Virtual box (UBUNTU 20.04)](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_VM_VBox.ipynb)  - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_VM_VBox.ipynb)
 **Objetivos:**
 - Instalar Virutal Box no Windows
 - Baixar e criar máquina virtual Ubuntu 20.04 no Windows
@@ -19,7 +19,7 @@
 - Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
-### [Instalação de GNU Radio](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_GNURADIO.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/h00_GNURADIO.ipynb)
+### [Instalação de GNU Radio](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_Install_GNURADIO.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_Install_GNURADIO.ipynb)
 **Objetivos**
 - Instalar o UHD Driver (suporte para USRP)
 - Instalar o GNU Radio
@@ -44,9 +44,19 @@
 - Testar arquivos ..\original_files\HO_01\Arquivos_GRC e ver se funcionam. Caso não funcionem, gerar os arquivos baeados no hands-on. Salvar arqvuos corretos na pasta ..\CODES\H01
 
 ## Hands-on 02 - Manipulação de áudio e filtragem (arquivos e microfone)
-Arquivo PDF (word): GRC_hands_on_2_2015_vf
-Apresentação: Modulo_02_hands_on_02
-Arquivo GRC: HO_02\Arquivos_GRC
+#### [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H02.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H02.ipynb)
+
+
+**Old files:**
+- Arquivo PDF (word): ..\original_files\HO_01\GRC_hands_on_2_2015_vf.pdf
+- Apresentação: ..\original_files\HO_01\Modulo_02_hands_on_02.pdf
+- Arquivo GRC: ..\original_files\HO_02\Arquivos_GRC
+
+**TODOs Ravan:** 
+- Construir o ../notebooks/H02.ipynb baseado no ..\original_files\HO_01\GRC_hands_on_2_2015_vf.pdf e na ..\original_files\HO_01\Modulo_02_hands_on_02.pdf (os arquivos em word e pptx também estão disponpiveis)
+- Incluir um experimento com o bloco QT GUI Message Edit Box
+- Testar arquivos ..\original_files\HO_02\Arquivos_GRC e ver se funcionam. Caso não funcionem, gerar os arquivos baeados no hands-on. Salvar arqvuos corretos na pasta ..\CODES\H02
+
 
 ## Hands-on 03 - Transmissão e recepção da modulação AM utilizando o GNURadio (loopback)
 Arquivo PDF (word): GRC_hands_on_3_2015_vf01
