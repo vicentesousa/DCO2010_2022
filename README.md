@@ -19,7 +19,7 @@
 - Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
-### [Instalação de GNU Radio](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_Install_GNURADIO.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_Install_GNURADIO.ipynb)
+### [Instalação de GNU Radio](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_Install_GNURADIO_APTGET.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H00_Install_GNURADIO_APTGET.ipynb)
 **Objetivos**
 - Instalar o UHD Driver (suporte para USRP)
 - Instalar o GNU Radio
