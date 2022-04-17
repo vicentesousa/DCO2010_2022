@@ -51,3 +51,22 @@
 - o uso do conhecimento teórico sinais AM-DSB ;
 - construir um “loop-back” da transmissão e recepção de sinais AM-DSB (AM comercial).
 
+## Hands-on 5 - Projeto de filtros digitais com o GNU Radio
+#### [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H05.ipynb) - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H05.ipynb)
+**Objetivos**
+- Usar conceitos básicos e algumas dicas aprendidas em exercícios passados para filtrar a saída de dois sinais com frequências diferentes;
+- Tanto usando filtros digitais FIR quanto IIR, ;
+- Utilizar a ferramenta Filter Design do GNU Radio.
+
+## Hands-on 6 Parte 01 - Receptor WBFM (GRC)
+#### [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H06_parte_01.ipynb) -[Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H06_parte_01.ipynb)
+**Objetivos**
+- Construir um receptor FM usando o USRP N210 e o GNU Radio Companion;
+- Aprender mais sobre o GNU Radio Companion (GRC) a interface gráfica do usuário (GUI);
+- Construir projetos com o GNU Radio (GNU Radio flowgraphs) para Rádio FM;
+
+## Hands-on 07 - Receptor WBFM usando o Dongle
+#### [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H07.ipynb) -[Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H07.ipynb)
+**Objetivos**
+- Demodulação FM usando o software GNURadio GRC e o dispositivo Dongle SDR TV Digital.
+
