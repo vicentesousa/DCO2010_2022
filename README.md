@@ -51,15 +51,23 @@
 - o uso do conhecimento teórico sinais AM-DSB ;
 - construir um “loop-back” da transmissão e recepção de sinais AM-DSB (AM comercial).
 
-## Hands-on 5 - Projeto de filtros digitais com o GNU Radio
+## Hands-on 04 - Loopback transmissão e recepção BPSK utilizando o GNURadio
+
+#### [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H04_parte_01.ipynb) - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H04_parte_01.ipynb)
+**Objetivos**
+- Introdução sobre modulação digital;
+- Projetar um loopback de um sistema de transmissão BPSK;
+- Analisar algumas características do sinal modulado e recebido.
+
+## Hands-on 05 - Projeto de filtros digitais com o GNU Radio
 
 #### [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H05.ipynb) - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H05.ipynb)
 **Objetivos**
 - Usar conceitos básicos e algumas dicas aprendidas em exercícios passados para filtrar a saída de dois sinais com frequências diferentes;
-- Tanto usando filtros digitais FIR quanto IIR, ;
+- Tanto usando filtros digitais FIR quanto IIR;
 - Utilizar a ferramenta Filter Design do GNU Radio.
 
-## Hands-on 6 Parte 01 - Receptor WBFM (GRC)
+## Hands-on 06 Parte 01 - Receptor WBFM (GRC)
 
 #### [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H06_parte_01.ipynb) -[Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H06_parte_01.ipynb)
 **Objetivos**
@@ -67,7 +75,7 @@
 - Aprender mais sobre o GNU Radio Companion (GRC) a interface gráfica do usuário (GUI);
 - Construir projetos com o GNU Radio (GNU Radio flowgraphs) para Rádio FM;
 
-## Hands-on 6 Parte 02 - Transmissor WBFM (GRC) 
+## Hands-on 06 Parte 02 - Transmissor WBFM (GRC) 
 
 #### [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H06_parte_02.ipynb) -[Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H06_parte_02.ipynb)
 **Objetivos**
@@ -83,6 +91,7 @@
 ## Hands-on 08 - Transmissor/Receptor WBFM em 2,4GHz (GRC)
 #### [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H08.ipynb) -[Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H08.ipynb)
 **Objetivos**
-- Utilizar os conceitos sobre modulação em frequência (FM) ;
+- Utilizar os conceitos sobre modulação em frequência (FM);
 - Construção de transmissor e receptor FM em 2,4 GHz. 
+
 
