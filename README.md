@@ -94,4 +94,11 @@
 - Utilizar os conceitos sobre modulação em frequência (FM);
 - Construção de transmissor e receptor FM em 2,4 GHz. 
 
+## Hands-on 09 - Parte 01: Transmissão/Recepção PSK sem fio em canais limitados em banda
+###  [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H09_parte_01.ipynb) - -[Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H09_parte_01.ipynb)
+**Objetivos**
+- Transmissão/recepção digital usando modulação PKS;
+- Ambiente com a presença de ruído AWGN, multipercurso e offsets de tempo e frequência.
+
+
 
