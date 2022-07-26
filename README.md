@@ -52,6 +52,7 @@
 - construir um “loop-back” da transmissão e recepção de sinais AM-DSB (AM comercial).
 
 ## Hands-on 5 - Projeto de filtros digitais com o GNU Radio
+
 #### [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H05.ipynb) - [Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H05.ipynb)
 **Objetivos**
 - Usar conceitos básicos e algumas dicas aprendidas em exercícios passados para filtrar a saída de dois sinais com frequências diferentes;
@@ -59,6 +60,7 @@
 - Utilizar a ferramenta Filter Design do GNU Radio.
 
 ## Hands-on 6 Parte 01 - Receptor WBFM (GRC)
+
 #### [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H06_parte_01.ipynb) -[Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H06_parte_01.ipynb)
 **Objetivos**
 - Construir um receptor FM usando o USRP N210 e o GNU Radio Companion;
@@ -66,13 +68,21 @@
 - Construir projetos com o GNU Radio (GNU Radio flowgraphs) para Rádio FM;
 
 ## Hands-on 6 Parte 02 - Transmissor WBFM (GRC) 
+
 #### [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H06_parte_02.ipynb) -[Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H06_parte_02.ipynb)
 **Objetivos**
 - Utilziar os conceitos sobre modulação em frequência (FM) e alguns blocos básicos mostrados em tutoriais passados;
 - Com GNR (GNU Radio Companion), criar um transmissor FM capaz de enviar ao espaço livre áudio proveniente de arquivo “.wav” ou microfone.
 
 ## Hands-on 07 - Receptor WBFM usando o Dongle
+
 #### [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H07.ipynb) -[Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H07.ipynb)
 **Objetivos**
 - Demodulação FM usando o software GNURadio GRC e o dispositivo Dongle SDR TV Digital.
+
+## Hands-on 08 - Transmissor/Receptor WBFM em 2,4GHz (GRC)
+#### [Hands-on](https://github.com/vicentesousa/DCO2010_2022/blob/main/notebooks/H08.ipynb) -[Link alternativo via nbviewer](https://nbviewer.org/github/vicentesousa/DCO2010_2022/blob/main/notebooks/H08.ipynb)
+**Objetivos**
+- Utilizar os conceitos sobre modulação em frequência (FM) ;
+- Construção de transmissor e receptor FM em 2,4 GHz. 
 
